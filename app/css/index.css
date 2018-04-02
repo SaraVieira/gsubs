@@ -15,6 +15,10 @@ body {
     user-select: none;
 }
 
+html, body {
+    border-radius: 20px;
+}
+
 body ::-webkit-scrollbar {
     -webkit-appearance: none;
     width: 8px;
